@@ -383,7 +383,7 @@ CreateThread(function()
         type = "client",
         event = "qb-k9:client:menu", 
         icon = 'fa-solid fa-dog', 
-        label = Lang:t("info.k9_lostscent"), 
+        label = Lang:t("menu.purchase_header"), 
         job = Config.Autorhized, 
       }
     },
